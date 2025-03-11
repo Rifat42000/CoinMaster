@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CoinCollector\main.cpp(27,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CoinCollector\main.cpp(37,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CoinCollector\main.cpp(93,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CoinCollector\main.cpp(104,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CoinCollector\main.cpp(147,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CoinCollector\main.cpp(170,33): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'float', possible loss of data
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CoinCollector\main.cpp(171,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CoinCollector\main.cpp(175,31): warning C4244: 'initializing': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CoinCollector\main.cpp(176,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CoinCollector\main.cpp(179,29): warning C4244: 'initializing': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CoinCollector\main.cpp(180,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CoinCollector\main.cpp(184,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CoinCollector\main.cpp(184,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CoinCollector\main.cpp(193,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  coinGame.vcxproj -> C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CoinCollector\x64\Debug\coinGame.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

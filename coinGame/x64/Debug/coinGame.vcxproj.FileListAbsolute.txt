@@ -1,0 +1,6 @@
+C:\Users\HP\OneDrive - American International University-Bangladesh\Documents\coinGame\x64\Debug\freeglutd.dll
+C:\Users\HP\OneDrive - American International University-Bangladesh\Documents\coinGame\coinGame\x64\Debug\coinGame.vcxproj.Up2Date
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CoinCollector\x64\Debug\alut.dll
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CoinCollector\x64\Debug\OpenAL32.dll
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CoinCollector\x64\Debug\freeglutd.dll
+C:\Users\HP\OneDrive - American International University-Bangladesh\Desktop\CoinCollector\coinGame\x64\Debug\coinGame.vcxproj.Up2Date
